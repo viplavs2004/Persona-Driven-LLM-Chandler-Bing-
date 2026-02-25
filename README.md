@@ -51,16 +51,16 @@ A dedicated notebook — **`direct-inference.ipynb`** — is provided for perfor
 
 Follow these steps to get started:
 
-###  Download the Notebook  
+### 1️⃣ Download the Notebook  
 Download the `direct-inference.ipynb` file from this repository.
 
-### Upload to Kaggle  
+### 2️⃣ Upload to Kaggle  
 Upload the notebook to a new Kaggle notebook environment.
 
-### Set GPU Runtime  
+### 3️⃣ Set GPU Runtime  
 Ensure your Kaggle notebook runtime is set to use a **T4 GPU** for optimal performance.
 
-### Run All Cells  
+### 4️⃣ Run All Cells  
 Execute all cells in the notebook to:
 - Set up the environment  
 - Load the fine-tuned model  
